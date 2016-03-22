@@ -1,0 +1,16 @@
+{
+  "name": "hylo-hooks",
+  "version": "0.0.1",
+  "description": "webhooks microservice for hylo",
+  "main": "server.js",
+  "repository": "Connoropolous/hylo-hooks",
+  "author": "Connor Turland <connorturland@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "^1.15.0",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "request": "^2.69.0",
+    "underscore": "^1.8.3"
+  }
+}
